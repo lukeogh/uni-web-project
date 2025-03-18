@@ -285,7 +285,6 @@ position: relative;
 }
 
 /* ABOUT US section */
-
 .about-us {
     background-color: var(--light-color);
 }
@@ -395,7 +394,7 @@ footer .logo {
 
 .memberships-page {
     position: relative;
-    min-height: 400px;
+    min-height: 800px;
     background-image: url(../img/membership.jpg);
     background-size: cover;
     background-position: bottom;
