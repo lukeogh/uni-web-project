@@ -2,8 +2,8 @@
 /* CSS Style sheet for Web Management And Development - M30875 - WEB PROJECT 1 - up2307500  */
 
 /*
-CSS RESET 
-SOURCE https://www.joshwcomeau.com/css/custom-css-reset/ 
+CSS reset 
+Source https://www.joshwcomeau.com/css/custom-css-reset/ 
 */
 
 /* 1. Use a more-intuitive box-sizing model */
@@ -98,7 +98,7 @@ p {
 }
 
 body{ 
-    width: 100% 0;
+    width: 100%;
 }
 
 a {
@@ -582,7 +582,6 @@ footer .logo {
     align-items: center;
     justify-content: center;
     height: 500px;
-    width: 200;
     z-index: 999;
     color: var(--light-color);
 }
